@@ -23,5 +23,5 @@ Provides an adjustable maximum number of questions the game can ask before guess
 ### Animal Categories:
 Provides various groups of animals the user can choose from for guessing.
 
-# Image 🖼️
+# Animal Genie in Action 🖼️
 ![image](https://user-images.githubusercontent.com/72311728/209413737-9a593cb4-480f-46b9-b0c5-e92c8df74eee.png)
