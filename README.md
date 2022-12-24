@@ -9,7 +9,7 @@ The Animal Genie is a game that guesses which animal the user is thinking of fro
 Displays all of the possible animals that can be chosen for guessing (default is all animals).
 
 ### Animal Gallery Background Dropdown Menu:
-Changes the look and feel of the Animal Gallery by providing various background colours to choose from (white is default).
+Changes the look and feel of the Animal Gallery by providing various background colours to choose from (default is white).
 
 ### Power Button:
 Closes the program when clicked once the user no longer wants to play the game.
